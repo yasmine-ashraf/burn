@@ -21,7 +21,7 @@ This project was created as a deeper dive into learning about Swift, Pods, Locat
 ## Use Cases
 - Traveling
 - Users with sensitive skin
-- Extreme weather conditions
+- Unusual weather conditions
 
 ## Contributing🤝
 
