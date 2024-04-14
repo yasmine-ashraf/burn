@@ -2,7 +2,7 @@
 Will I Burn is a weather iOS mobile application with a twist. It detects user's location and checks the current UV index to display how much time (mins) they can sit outside before they get a sunburn.
 
 ## Motivation💪
-This project was created as a deeper dive into learning about Swift, Pods, Location, Permissions, APIs and more.
+This project was created as a deeper dive into learning about Swift, JSON, Push Notifications, Permissions, Location, Weather APIs and more.
 
 ## Screenshots📱
 ### Normal Use Case
