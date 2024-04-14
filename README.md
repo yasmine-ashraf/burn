@@ -19,8 +19,9 @@ This project was created as a deeper dive into learning about Swift, Pods, Locat
 
 
 ## Use Cases
+- Sensitive skin patients
+- Sun Tanning
 - Traveling
-- Users with sensitive skin
 - Unusual weather conditions
 
 ## Contributing🤝
